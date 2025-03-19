@@ -25,7 +25,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/PastelArtist/immortalwrt-mt798x
+  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x.git
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: RAX3000M-NAND.config
